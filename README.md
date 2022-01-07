@@ -2,7 +2,7 @@
 
 **A Theoretical Repobook for Understanding core concepts using C Programming Language**
 
-- **Problem Solving through Programming using C**, **PSP** in short is one of the Computer Science Fundamental Electives I had chosen from my [Software Engineering Degree](https://github.com/AswinBarath/Software-Engineering-Degree)
+- **Problem Solving through Programming using C**, **PSP** in short is one of the **Core Computer Science Course** which is part of my [Software Engineering Degree](https://github.com/AswinBarath/Software-Engineering-Degree) in 1st Semester, Freshman Year
 - Total time spent: [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff/project/33d95e72-e50f-4c63-82a7-30f3b3d143b7.svg)](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff/project/33d95e72-e50f-4c63-82a7-30f3b3d143b7)
 
 ---
